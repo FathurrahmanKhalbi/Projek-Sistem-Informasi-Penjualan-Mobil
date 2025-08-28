@@ -1,2 +1,1 @@
-# Projek-Sistem-Informasi-Mobil
-Projek kelompok G 06TPLP018
+# Projek-Sistem-Pendukung-Keputusan-SMART
